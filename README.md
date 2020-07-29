@@ -1,6 +1,6 @@
 ## d-tree
 
-### This is from an undergrad ML course assignment. Instructions:
+#### This is from an undergrad ML course assignment. Instructions:
 
 Introduction
 >Implement the ID3 decision tree learning algorithm that we discussed in class. To simplify the implementation, your system only needs to handle binary classification tasks (i.e. each instance will have a class value of 0 or 1). In addition, you may assume that all attributes are binary-valued (i.e. the only possible attribute values are 0 and 1) and that there are no missing values in the training or test data.
